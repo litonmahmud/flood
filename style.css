@@ -1,0 +1,158 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: darkgray;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+.one{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+.anchor{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    font-size: bold;
+    padding: 20px 20px;
+    border-radius: 50px;
+    font-weight: bold;
+}
+.header{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+.two{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+.flex{
+    display: flex;
+    width: 800px;
+    margin: auto;
+}
+.width{
+  margin: auto;
+}
+.border{
+    padding: 20px 20px;
+    background-color: lightgray;
+}
+#select{
+    border: 1px solid red;
+    background-color: lightpink;
+    border-radius: 5px;
+    color: red;
+}
+#text{
+    width: 800px;
+    margin:auto;
+    display: block;
+    text-align: center;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    background-color: darkgray;
+    color: black;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.donate{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 20px 20px;
+    color: white;
+    font-weight: bold;
+    border-radius: 50px;
+    margin-left: 45%;
+}
+.border-2{
+    box-shadow: 10px 10px 40px black;
+    border-radius: 10px;
+    width: 33.3%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 2%;
+}
+.flexible{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#one{
+    background-color: aliceblue;
+}
+#two{
+    background-color: lightpink;
+}
+#three{
+    background-color: bisque;
+}
+.flexible-2{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.img{
+    box-shadow: 10px 10px 40px black;
+    border-radius: 10px;
+}
+.button{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    font-weight: bold;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+#email{
+    padding: 10px 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+}
+.subscribe{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 10px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+}
+.area{
+    padding: 50px;background-color: lightgray;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 10px;
+}
+.footer{
+    background-color: dimgray;
+    text-align: center;
+    padding: 5px;
+    margin-top: 10%;
+}
